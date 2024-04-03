@@ -7,7 +7,7 @@ The field of space exploration is experiencing exponential growth, with advancem
 - How have overall mission success rates evolved over time?
 - Are there specific companies or rocket types that boast a higher success rate?
 - Which launch locations are most frequently utilized for space missions?
-- 
+  
 ## Roadmap
 ### 1. Data Acquisition and Cleaning
 - Acquire space exploration mission dataset.
@@ -27,14 +27,14 @@ The field of space exploration is experiencing exponential growth, with advancem
 - Investigate most frequently used launch locations for space missions.
 ### Spacecraft Status
 - Consider current status of spacecrafts (active, retired, etc.), if data allows.
-- 
+  
 ## Power BI: Our Data Analysis Command Center
 Power BI serves as our primary tool for data exploration and visualization, empowering us to unlock insights hidden within space mission data. With Power BI, we can:
 
 - Clean and transform data to ensure accuracy and consistency.
 - Explore data from various angles to identify trends and patterns.
 - Create clear and compelling visualizations like charts and graphs.
-- 
+  
 ## Conclusion
 Total Missions Trend: The upward trend in total missions by rocket indicates a growing interest in space exploration and satellite deployment.
 Success Missions by Location: Certain locations consistently achieve higher success rates, suggesting the importance of factors like infrastructure, weather conditions, and launch facilities.
@@ -42,7 +42,9 @@ Budget and Success Missions: Investment correlates with mission success, emphasi
 Partial Failure Reasons: Understanding reasons behind partial failures is crucial for improving overall success rates.
 
 ## Snapshots of the project: 
+![Screenshot 2024-03-30 141437](https://github.com/Shyam165/Exploratory-Data-Analysis-on-Space-Exploration-Missions/assets/111563134/f056cad5-1934-4984-832c-09d4d5219223)
 
+![Screenshot 2024-03-30 141449](https://github.com/Shyam165/Exploratory-Data-Analysis-on-Space-Exploration-Missions/assets/111563134/874f955d-5259-488d-9ee7-02841ab3e571)
 
 
 ## Contributors
